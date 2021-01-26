@@ -6,7 +6,7 @@ This is **Topic Modelling of Czech Supreme Court Decisions** repository containi
 
 For proper functioning of the visualizations, it is necessary to download the .html files and open them in the browser.
 
-All the relevant information, data and codes relevant to the models are available as *open source* at: https://github.com/tm-czech-supreme-court/lda-nmf.
+All the information, data and codes relevant to the models are available as *open source* at: https://github.com/tm-czech-supreme-court/lda-nmf.
 
 In the case of any further questions, please contact Tereza Novotná: tereza.novotna@mail.muni.cz.
 
